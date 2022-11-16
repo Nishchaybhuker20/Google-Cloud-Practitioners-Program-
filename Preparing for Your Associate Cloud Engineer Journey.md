@@ -2,10 +2,10 @@
 # <p align="center">Setting Up a Cloud Solution Environment:</p>
 <h1>Diagnostic Questions.</h1>
 
-Question.   The Operations Department at Cymbal Superstore wants to provide managers access to information about VM usage without allowing them to make changes that would affect the state. You assign them the Compute Engine Viewer role. Which two permissions will they receive?/n
+Question.   The Operations Department at Cymbal Superstore wants to provide managers access to information about VM usage without allowing them to make changes that would affect the state. You assign them the Compute Engine Viewer role. Which two permissions will they receive?<br/>
 Answer.     compute.images.list, compute.images.get
 
-Question.   Pick two choices, from the options below, that provide a command line interface to Google Cloud.
+Question.   Pick two choices, from the options below, that provide a command line interface to Google Cloud.<br/>
 Answer.     Cloud Shell, Cloud SDK
 
 Question.   Stella is a new member of a team in your company who has been put in charge of monitoring VM instances in the organization. Stella will need the required permissions to perform this role. How should you grant her those permissions?
