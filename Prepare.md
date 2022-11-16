@@ -1,6 +1,6 @@
 
 # <p align="center">Setting Up a Cloud Solution Environment:</p>
-<h1>Diagnostic Questions.<h1>
+<h1>Diagnostic Questions.</h1>
 
 Question.   The Operations Department at Cymbal Superstore wants to provide managers access to information about VM usage without allowing them to make changes that would affect the state. You assign them the Compute Engine Viewer role. Which two permissions will they receive?
 Answer.     compute.images.list, compute.images.get
@@ -35,7 +35,7 @@ Answer.     Use Cloud Monitoring notification channels to send Jeffrey an email 
 
 
 
-<h1>Knowledge Check Quiz:<h1>
+<h1>Knowledge Check Quiz:</h1>
 
 Question.   What is the lowest level basic role that gives you permissions to change resource state?
 Answer.     Editor.
@@ -44,7 +44,7 @@ Question.   Which Google Cloud interface allows for scripting actions in a set o
 Answer.     Cloud Shell.
 
 
-<h1>Plannning and Configuring a Cloud Solution:
+<h1>Plannning and Configuring a Cloud Solution:</h1>
 
 Diagnostic Quiz:
 
@@ -89,7 +89,7 @@ Answer.      Cloud Functions
 
 
 
-Deploying and Implementing a Cloud Solution:
+<h1>Deploying and Implementing a Cloud Solution:</h1>
 
 Diagnotic Quiz:
 
@@ -134,7 +134,7 @@ Question.    Which data storage service is a unique globally available, horizont
 Answer.      Cloud Spanner
 
 
-Ensuring Successful Operation of a Cloud Solution:
+<h1>Ensuring Successful Operation of a Cloud Solution:</h1>
 
 Question.    You have a scheduled snapshot you are trying to delete, but the operation returns an error. What should you do to resolve this problem?
 Answer.      Detach the snapshot schedule before deleting it.
