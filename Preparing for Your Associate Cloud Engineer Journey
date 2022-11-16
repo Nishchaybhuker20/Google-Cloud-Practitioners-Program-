@@ -1,0 +1,44 @@
+Setting Up a Cloud Solution Environment:
+
+<h1>Diagnostic Questions.<h1>
+
+Question.   The Operations Department at Cymbal Superstore wants to provide managers access to information about VM usage without allowing them to make changes that would affect the state. You assign them the Compute Engine Viewer role. Which two permissions will they receive?
+Answer.     compute.images.list, compute.images.get
+
+Question.   Pick two choices, from the options below, that provide a command line interface to Google Cloud.
+Answer.     Cloud Shell, Cloud SDK
+
+Question.   Stella is a new member of a team in your company who has been put in charge of monitoring VM instances in the organization. Stella will need the required permissions to perform this role. How should you grant her those permissions?
+Answer.     Add Stella to a Google Group in your organization. Bind that group to roles/compute.viewer.
+
+Question.   You need to add new groups of employees in Cymbal Superstore’s production environment. You need to consider Google’s recommendation of using least privilege. What should you do?
+Answer.     Grant predefined and custom roles that provide necessary permissions and grant basic roles only where needed.
+
+Question.   How are billing accounts applied to projects in Google Cloud? (Pick two).
+Answer.     A project and its resources can only be tied to one billing account.
+            A billing account can be linked to one or more projects.
+           
+Question.   How are resource hierarchies organized in Google Cloud?
+Answer.     Organization, Folder, Project, Resource
+
+Question.   What Google Cloud project attributes can be changed?
+Answer.     The Project Name.
+
+Question.   You want to use the Cloud Shell to copy files to your Cloud Storage bucket. Which Cloud SDK command should you use?
+Answer.     gsutil
+
+Question.   Jane will manage objects in Cloud Storage for the Cymbal Superstore. She needs to have access to the proper permissions for every project across the organization. What should you do?
+Answer.     Add Jane to a group that has the roles/storage.objectAdmin role assigned at the organizational level.
+
+Question.   Fiona is the billing administrator for the project associated with Cymbal Superstore’s eCommerce application. Jeffrey, the marketing department lead, wants to receive emails related to budget alerts. Jeffrey should have access to no additional billing information. What should you do?
+Answer.     Use Cloud Monitoring notification channels to send Jeffrey an email alert.
+
+
+
+<h1>Knowledge Check Quiz:<h1>
+
+Question.   What is the lowest level basic role that gives you permissions to change resource state?
+Answer.     Editor.
+
+Question.   Which Google Cloud interface allows for scripting actions in a set of command line executables?
+Answer.     Cloud Shell.
